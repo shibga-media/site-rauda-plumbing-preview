@@ -1,2 +1,3 @@
+# DRAFT - not approved yet. Set INDEXABLE = True in content.py to open the site to search engines.
 User-agent: *
 Disallow: /
